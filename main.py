@@ -2,6 +2,16 @@
 This are some of the solution to Reeborg's world challenges. I used this to practice python functions
 """
 
+# Home 1 and 2 Solution
+
+"""
+def home():
+    move()
+    move()
+
+home()
+"""
+
 # Hurdle 1 Solution
 
 """

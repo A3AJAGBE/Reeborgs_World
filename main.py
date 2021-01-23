@@ -12,6 +12,36 @@ def home():
 home()
 """
 
+# Home 3 Solution
+
+"""
+def home():
+    move()
+    move()
+    turn_left()
+    move()
+
+home()
+"""
+
+# Home 4 Solution
+
+"""
+def turn_right():
+    turn_left()
+    turn_left()
+    turn_left()   
+        
+while not at_goal():
+    if right_is_clear():
+        turn_right()
+        move()
+    elif wall_in_front():
+        turn_left()
+    else:
+        move()
+"""
+
 # Hurdle 1 Solution
 
 """

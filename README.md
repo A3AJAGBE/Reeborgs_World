@@ -1,6 +1,3 @@
-#Day6 of #100DaysOfCode
-
-
 ## Used Reeborg's world to practice functions
 Provided solution to some of the challenges in Reeborg's world. Check out [Reeborg's world!](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Alone&url=worlds%2Ftutorial_en%2Falone.json) website.
 
